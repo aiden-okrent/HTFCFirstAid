@@ -1,5 +1,4 @@
 [![DOWNLOAD](http://cf.way2muchnoise.eu/full_276837_downloads%20on%20CurseForge.svg)](https://minecraft.curseforge.com/projects/first-aid)
-[![AVAILABLE VERSIONS](http://cf.way2muchnoise.eu/versions/First-Aid.svg)](https://minecraft.curseforge.com/projects/first-aid)
 
 # FirstAid
 First Aid is a minecraft mod that changes the vanilla health system to be split up into different parts.
